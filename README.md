@@ -64,7 +64,7 @@ A clean and beginner-friendly Product Management System built with Python and Dj
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/mohdmasooud/ecommerce-product-management.git
 cd assproj/product_management
 ```
 
