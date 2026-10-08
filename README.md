@@ -4,7 +4,7 @@ A clean and beginner-friendly Product Management System built with Python and Dj
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 * **Backend:** Python 3.12, Django
 * **Database:** SQLite3
 * **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
@@ -13,7 +13,7 @@ A clean and beginner-friendly Product Management System built with Python and Dj
 
 ---
 
-## 📌 Features & Pages
+##  Features & Pages
 
 1. **Authentication (Login & Logout)**
    * Secure admin login with session management.
@@ -52,7 +52,7 @@ A clean and beginner-friendly Product Management System built with Python and Dj
 
 ---
 
-## 🔑 Login Credentials
+##  Login Credentials
 
 * **Username:** `admin`
 * **Password:** `admin123`
